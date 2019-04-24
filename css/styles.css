@@ -1,0 +1,214 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+}
+
+h1 {
+  margin: 100px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 1.2rem;
+}
+h4{
+text-align: center;
+}
+
+p {
+  font-size: 1rem;
+    line-height: 2;
+
+}
+
+hr {
+  width: 4%;
+  /** this code controls how wide or how many dots there are **/
+  border-style: none;
+  /* this border style erases all 4 imaginary borders **/
+  border-bottom-style: dotted;
+  /* the border style choose which 4 sides will be dotted or any other style while overriding the no border style **/
+  border-width: 6px;
+  /** how big the style or shapes are **/
+  border-bottom-color: grey;
+  margin:  250px auto;
+}
+ul{
+  list-style-type: none;
+  line-height: 2;
+}
+.title-skills{
+  margin-bottom: 100px;
+}
+
+.social-media {
+  margin: 50px auto;
+}
+
+.learn-about-me {
+  margin: 50px auto;
+}
+
+.get-in-touch {
+  margin: 150px auto;
+}
+.contact-me{
+  margin-bottom: 100px;
+}
+
+.express-icon{
+  width: 48px;
+  height: 64px;
+}
+
+.copy-right {
+  color: #EAF6F6;
+  opacity: 1.5;
+  position: relative;
+  top: 55px;
+
+  font-size: .75rem;
+}
+
+.social-media{
+  width: 25%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  bottom: 10px;
+padding: 100px 0px;
+}
+
+.middle-container {
+  padding: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.mountain {
+  position: relative;
+  top: 105px;
+}
+.skill-boxes{
+  display: inline-block;
+  margin: 50px;
+}
+.top-cloud {
+  position: absolute;
+  right: 240px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 260px;
+  bottom: 300px;
+}
+
+.sanfran-picture {
+  width: 250px;
+  height: 250px;
+  m
+}
+
+.computer-picture {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.basket-ball {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link {
+  color: #11999E;
+  font-size: 17px;
+  text-decoration: none;
+  padding: 0px 20px;
+  font-weight: bold;
+font-family: "Montserrat",sans-serif;}
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.pro-grammer {
+  font-weight: bold;
+}
+
+.intro {
+  font-size: 1rem;
+  color: #40514E;
+  text-align: center;
+  width: 30%;
+  margin: auto;
+  /** margin auto will take and line up the space and it will line up in the middle basically **/
+}
+
+.btn {
+  margin: 50px auto;
+}
+.column{
+float: left;
+position: relative;
+margin-left: 430px;
+
+}
+
+.butn {
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+  background-image: -moz-linear-gradient(top, #11999E, #11999E);
+  background-image: -ms-linear-gradient(top, #11999E, #11999E);
+  background-image: -o-linear-gradient(top, #11999E, #11999E);
+  background-image: linear-gradient(to bottom, #11999E, #11999E);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}

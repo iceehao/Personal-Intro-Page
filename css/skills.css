@@ -1,0 +1,87 @@
+.rest-text {
+  position: relative;
+  bottom: 5px;
+}
+
+.express-text {
+  position: relative;
+  top: 4px;
+}
+
+.express-icon {
+  position: relative;
+  top: 5px;
+}
+
+.bootstrap-text {
+  position: relative;
+  bottom: 5px;
+}
+
+.bootstrap-picture {
+  position: relative;
+  bottom: 5px;
+}
+
+.heroku-text {
+  position: relative;
+  bottom: 11px;
+}
+
+.heroku-image {
+  height: 50px;
+  position: relative;
+  bottom: 10px;
+}
+
+.nodejs-text {
+  position: relative;
+  bottom: 5px;
+}
+
+.nodejs-picture {
+  position: relative;
+  bottom: 5px;
+}
+
+.mongo-text {
+  position: relative;
+  top: 5px;
+}
+
+.javascript-text {
+  position: relative;
+  bottom: 5px;
+}
+
+.jquery-text {
+  position: relative;
+  bottom: 8.5px;
+}
+
+.css-text {
+  position: relative;
+  bottom: 5px;
+}
+
+.skill-boxes {
+  padding: 60px;
+  text-align: center;
+}
+
+.skills {
+  margin: 100px;
+  font-size: 1rem;
+}
+
+.skill-boxes {
+  display: inline-block;
+  margin: 50px;
+}
+
+.mongo {
+  width: 48px;
+  height: 64px;
+  position: relative;
+  top: 4px;
+}
